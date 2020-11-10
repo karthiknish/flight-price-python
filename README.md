@@ -8,8 +8,8 @@ Used Random Forest algorithm and Randomized Search CV to fit the model
 
 ![Alt text](/images/Capture2.PNG?raw=true "Capture2")
 
-![Alt text](/images/Capture3.PNG?raw=true "Capture3")
+![Alt text](/images/Capture3.png?raw=true "Capture3")
 
-![Alt text](/images/Capture4.PNG?raw=true "Capture4")
+![Alt text](/images/Capture4.png?raw=true "Capture4")
 
-![Alt text](/images/Capture5.PNG?raw=true "Capture5")
+![Alt text](/images/Capture5.png?raw=true "Capture5")
